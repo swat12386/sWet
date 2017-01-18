@@ -7,3 +7,6 @@ Wikipedie (anglicky a v mnoha dalších jazycích Wikipedia; název vznikl ze slov w
 Wikipedie je jedním z projektù Nadace Wikimedia, s nimi je vzájemnì provázána. Ke koordinaci jednotlivıch „wikiprojektù“ slouí projekt Meta-Wiki.
 
 Wikipedie funguje na principu tzv. wiki, co znamená, e novı èlánek mùe vloit a libovolnı èlánek mùe zmìnit (a u pouze opravit pøeklep, zkorigovat vìcnou chybu, èlánek vıraznì rozšíøit nebo zcela pøepsat) takøka kdokoli s pøístupem na web. Tato otevøenost ovšem s sebou nese také riziko nepøesností èi tzv. vandalismu. Jedním ze základních pravidel prosazovanıch uivateli je tzv. nezaujatı úhel pohledu[2] – èlánky musí nezaujatì prezentovat všechny podstatné názory na pøíslušné téma, ani by nìkterı vydávaly za jedinou objektivní pravdu. Poadavek na ovìøitelnost[3] údajù v èláncích je uplatòován zejména u kontroverzních údajù a témat.
+
+
++
